@@ -1,0 +1,10 @@
+c:\users\home\documents\visual studio 2012\Projects\VendingMachineImplementation\VendingMachineImplementation\bin\Debug\VendingMachineImplementation.exe.config
+C:\Users\Home\documents\visual studio 2012\Projects\VendingMachineImplementation\VendingMachineImplementation\obj\Debug\VendingMachineImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Home\documents\visual studio 2012\Projects\VendingMachineImplementation\VendingMachineImplementation\obj\Debug\VendingMachineImplementation.Cashcounter.resources
+C:\Users\Home\documents\visual studio 2012\Projects\VendingMachineImplementation\VendingMachineImplementation\obj\Debug\VendingMachineImplementation.Form1.resources
+C:\Users\Home\documents\visual studio 2012\Projects\VendingMachineImplementation\VendingMachineImplementation\obj\Debug\VendingMachineImplementation.Properties.Resources.resources
+C:\Users\Home\documents\visual studio 2012\Projects\VendingMachineImplementation\VendingMachineImplementation\obj\Debug\VendingMachineImplementation.csproj.GenerateResource.Cache
+C:\Users\Home\documents\visual studio 2012\Projects\VendingMachineImplementation\VendingMachineImplementation\bin\Debug\VendingMachineImplementation.exe
+C:\Users\Home\documents\visual studio 2012\Projects\VendingMachineImplementation\VendingMachineImplementation\bin\Debug\VendingMachineImplementation.pdb
+C:\Users\Home\documents\visual studio 2012\Projects\VendingMachineImplementation\VendingMachineImplementation\obj\Debug\VendingMachineImplementation.exe
+C:\Users\Home\documents\visual studio 2012\Projects\VendingMachineImplementation\VendingMachineImplementation\obj\Debug\VendingMachineImplementation.pdb
